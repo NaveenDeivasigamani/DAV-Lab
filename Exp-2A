@@ -1,6 +1,6 @@
 import numpy as np
 
-# Check NumPy version
+# Check NumPy version #
 print("NumPy Version:", np.__version__)
 
 # Creating different types of arrays

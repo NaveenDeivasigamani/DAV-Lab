@@ -2,7 +2,7 @@
 # Download, install and explore NumPy, SciPy, Jupyter, Statsmodels,
 # Pandas, Matplotlib, Seaborn, Plotly, and Bokeh
 
-import numpy as np
+import numpy as np  
 import scipy
 import pandas as pd
 import matplotlib
